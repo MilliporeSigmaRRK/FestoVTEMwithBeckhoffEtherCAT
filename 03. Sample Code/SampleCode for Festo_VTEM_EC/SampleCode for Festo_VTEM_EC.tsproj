@@ -43,7 +43,7 @@
 		</System>
 		<Plc>
 			<Project GUID="{D9212FAC-4ECE-40A9-A851-862437F5477C}" Name="VTEM_TEST" PrjFilePath="VTEM_TEST\VTEM_TEST.plcproj" TmcFilePath="VTEM_TEST\VTEM_TEST.tmc" ReloadTmc="true" AmsPort="851" FileArchiveSettings="#x000e" SymbolicMapping="true">
-				<Instance Id="#x08502000" TcSmClass="TComPlcObjDef" KeepUnrestoredLinks="2" TmcHash="{CF61E7E6-7253-F7C7-A677-E6ACD790FB4D}">
+				<Instance Id="#x08502000" TcSmClass="TComPlcObjDef" KeepUnrestoredLinks="2" TmcPath="VTEM_TEST\VTEM_TEST.tmc" TmcHash="{CF61E7E6-7253-F7C7-A677-E6ACD790FB4D}">
 					<Name>VTEM_TEST Instance</Name>
 					<CLSID ClassFactory="TcPlc30">{08500001-0000-0000-F000-000000000064}</CLSID>
 					<Vars VarGrpType="1">
